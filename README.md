@@ -16,7 +16,8 @@ For the dataset and other supplementary information, please consult:
 [COADREADx](https://apalanialab.shinyapps.io/coadreadx/)
 
 ### Citation
-Ashok Palaniappan*, Sangeetha Muthamilselvan, Arjun Sarathi. (2024) COADREADx: A comprehensive algorithmic dissection unravels salient biomarkers and actionable insights into the discrete progression of colorectal cancer. medRxiv 2022.08.16.22278877; doi: https://doi.org/10.1101/2022.08.16.22278877 [submitted]
+Palaniappan A*, Muthamilselvan S, Sarathi A. COADREADx: A comprehensive algorithmic dissection of colorectal cancer unravels salient biomarkers and actionable insights into its discrete progression. PeerJ. 2024 Oct 28;12:e18347. doi: 10.7717/peerj.18347. PMID: 39484215; PMCID: PMC11526798.
+*corresponding author
 
 ### License 
 The code in this repository, including all code samples in the scripts listed above, is released under the BSD 3-Clause License. Read more at the [Open Source Initiative](https://opensource.org/licenses/MIT).
